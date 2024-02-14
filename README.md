@@ -1,0 +1,1 @@
+# Leetcode_Q635_DesignLogStorageSystem_Py
